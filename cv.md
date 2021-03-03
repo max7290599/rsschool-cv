@@ -8,7 +8,16 @@
 *Right now I don’t have much of experience in the field, but I’ve already finished some freelance projects. I love to learn, that’s why I’m currently studying online to achive my goal of becoming a pro.* 
 
 ### Skills
-JS, HTML, CSS, Sass, Nodejs, Webpack, Babel, React, Redux, React-router...
+*JS
+*HTML
+*CSS
+*Sass
+*Nodejs
+*SQL
+*React
+*Redux
+*React-router
+*Redax-saga
 
 ### Code Examples
 ```React
