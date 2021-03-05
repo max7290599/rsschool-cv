@@ -5,6 +5,11 @@
 	--link-secondary-color: #13693c;
 }
 
+img{
+    width: 100px;
+    margin-right: 20px;
+}
+
 html, body, h1, h2, h3, p {
 	margin: 0;
 	padding: 0;
@@ -135,7 +140,7 @@ main p {
 .contacts-list li {
 	padding: 8px 0;
 	width: auto;
-	
+
 }
 
 .contacts-list a {
